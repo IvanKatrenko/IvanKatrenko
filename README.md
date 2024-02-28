@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React, JavaScript, Vite, Node.js, HTML, CSS...
 - 🤔 I'm looking for help finding a job
 - 💬 Ask me about web-development, football and swimming.
-- 📫 How to reach me: @berno4444
+- 📫 How to reach me: @berno4444 (Telegram)
 
 Technologies I`m using now:
 
