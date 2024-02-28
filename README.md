@@ -2,16 +2,16 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior front-end developer from Poland </h3>
 
-<!--
-**IvanKatrenko/IvanKatrenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-  
 - 🌱 I’m currently learning React, JavaScript, vite, Node.js, HTML, CSS...
 - 🤔 I'm looking for help finding a job
 - 💬 Ask me about web-development, football and swimming.
 - 📫 How to reach me: @berno4444
--->
-![react](https://github.com/IvanKatrenko/IvanKatrenko/assets/141911988/dbec8b4d-1305-456a-a3d2-e6de65b32b24)
-![javascript](https://github.com/IvanKatrenko/IvanKatrenko/assets/141911988/85fc2b0d-b464-4e79-ab1a-84e4b5c0cd18)
+
+Technologies I`m using now:
+
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
