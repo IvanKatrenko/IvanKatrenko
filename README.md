@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about web-development, football and swimming.
 - 📫 How to reach me: @berno4444
 -->
+![react](https://github.com/IvanKatrenko/IvanKatrenko/assets/141911988/dbec8b4d-1305-456a-a3d2-e6de65b32b24)
+![javascript](https://github.com/IvanKatrenko/IvanKatrenko/assets/141911988/85fc2b0d-b464-4e79-ab1a-84e4b5c0cd18)
