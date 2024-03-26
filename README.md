@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Ivan</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior front-end developer from Poland </h3>
 
 - 🌱 I’m currently learning React, JavaScript, Vite, Node.js, HTML, CSS...
